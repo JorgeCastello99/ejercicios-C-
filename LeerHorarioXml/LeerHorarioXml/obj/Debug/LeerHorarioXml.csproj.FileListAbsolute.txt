@@ -1,0 +1,9 @@
+C:\Users\David\source\repos\LeerHorarioXml\LeerHorarioXml\bin\Debug\LeerHorarioXml.exe.config
+C:\Users\David\source\repos\LeerHorarioXml\LeerHorarioXml\bin\Debug\LeerHorarioXml.exe
+C:\Users\David\source\repos\LeerHorarioXml\LeerHorarioXml\bin\Debug\LeerHorarioXml.pdb
+C:\Users\David\source\repos\LeerHorarioXml\LeerHorarioXml\obj\Debug\LeerHorarioXml.csprojAssemblyReference.cache
+C:\Users\David\source\repos\LeerHorarioXml\LeerHorarioXml\obj\Debug\LeerHorarioXml.Form1.resources
+C:\Users\David\source\repos\LeerHorarioXml\LeerHorarioXml\obj\Debug\LeerHorarioXml.Properties.Resources.resources
+C:\Users\David\source\repos\LeerHorarioXml\LeerHorarioXml\obj\Debug\LeerHorarioXml.csproj.GenerateResource.cache
+C:\Users\David\source\repos\LeerHorarioXml\LeerHorarioXml\obj\Debug\LeerHorarioXml.exe
+C:\Users\David\source\repos\LeerHorarioXml\LeerHorarioXml\obj\Debug\LeerHorarioXml.pdb

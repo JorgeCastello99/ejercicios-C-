@@ -1,0 +1,18 @@
+C:\Users\sofia\source\repos\Validando Datos\Validando Datos\bin\Debug\Validando Datos.exe.config
+C:\Users\sofia\source\repos\Validando Datos\Validando Datos\bin\Debug\Validando Datos.exe
+C:\Users\sofia\source\repos\Validando Datos\Validando Datos\bin\Debug\Validando Datos.pdb
+C:\Users\sofia\source\repos\Validando Datos\Validando Datos\obj\Debug\Validando Datos.csprojAssemblyReference.cache
+C:\Users\sofia\source\repos\Validando Datos\Validando Datos\obj\Debug\Validando_Datos.Form1.resources
+C:\Users\sofia\source\repos\Validando Datos\Validando Datos\obj\Debug\Validando_Datos.Properties.Resources.resources
+C:\Users\sofia\source\repos\Validando Datos\Validando Datos\obj\Debug\Validando Datos.csproj.GenerateResource.cache
+C:\Users\sofia\source\repos\Validando Datos\Validando Datos\obj\Debug\Validando Datos.exe
+C:\Users\sofia\source\repos\Validando Datos\Validando Datos\obj\Debug\Validando Datos.pdb
+C:\Users\Jorge\Documents\GRADO SUPERIOR\2ºDAM\DI\Validando Datos\Validando Datos\bin\Debug\Validando Datos.exe.config
+C:\Users\Jorge\Documents\GRADO SUPERIOR\2ºDAM\DI\Validando Datos\Validando Datos\bin\Debug\Validando Datos.exe
+C:\Users\Jorge\Documents\GRADO SUPERIOR\2ºDAM\DI\Validando Datos\Validando Datos\bin\Debug\Validando Datos.pdb
+C:\Users\Jorge\Documents\GRADO SUPERIOR\2ºDAM\DI\Validando Datos\Validando Datos\obj\Debug\Validando Datos.csprojAssemblyReference.cache
+C:\Users\Jorge\Documents\GRADO SUPERIOR\2ºDAM\DI\Validando Datos\Validando Datos\obj\Debug\Validando_Datos.Form1.resources
+C:\Users\Jorge\Documents\GRADO SUPERIOR\2ºDAM\DI\Validando Datos\Validando Datos\obj\Debug\Validando_Datos.Properties.Resources.resources
+C:\Users\Jorge\Documents\GRADO SUPERIOR\2ºDAM\DI\Validando Datos\Validando Datos\obj\Debug\Validando Datos.csproj.GenerateResource.cache
+C:\Users\Jorge\Documents\GRADO SUPERIOR\2ºDAM\DI\Validando Datos\Validando Datos\obj\Debug\Validando Datos.exe
+C:\Users\Jorge\Documents\GRADO SUPERIOR\2ºDAM\DI\Validando Datos\Validando Datos\obj\Debug\Validando Datos.pdb
